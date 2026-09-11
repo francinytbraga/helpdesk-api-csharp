@@ -73,7 +73,7 @@ Siga os passos abaixo para rodar o ambiente de desenvolvimento na sua máquina:
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/SEU-USUARIO/helpdesk-api-csharp.git](https://github.com/SEU-USUARIO/helpdesk-api-csharp.git)
+git clone [https://github.com/francinytbraga/helpdesk-api-csharp.git](https://github.com/francinytbraga/helpdesk-api-csharp.git)
 
 # 2. Entre na pasta do projeto
 cd helpdesk-api-csharp
